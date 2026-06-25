@@ -29,34 +29,25 @@ Led by **Youngung Han**, a Ph.D. candidate at Seoul National University (SNU) in
 ### Leader: Youngung Han (yuhan)
 - **Affiliation**: Ph.D. Candidate, Department of Computer Science and Engineering, Seoul National University
 - **Research Interests**: Deep Learning, Generative Models, Natural Language Processing, Computer Vision
-
-### Co-leader: Kyung Tae Park (ktpark)
-- **Affiliation**: Undergraduate Student, Department of Mechanical Engineering, Kyung Hee University
-- **Research Interests**: Robotics, 2D Vision, Large Language Models (LLMs), ROS2, Control Systems and Automation, Humanoid Robotics and Human-Robot Interaction (HRI)
  
 ### Team Members
 Our team consists of passionate researchers with diverse backgrounds, working together to tackle challenging problems in AI.
 #### Team Member: YooHyun Kim (yhkim)
+Kyung Tae Park (ktpark)
+- **Affiliation**: Undergraduate Student, Department of Mechanical Engineering, Kyung Hee University
+- **Research Interests**: Robotics, 2D Vision, Large Language Models (LLMs), ROS2, Control Systems and Automation, Humanoid Robotics and Human-Robot Interaction (HRI)
+#### Team Member: YooHyun Kim (yhkim)
 - **Affiliation**: Undergraduate Student, Department of Artificial Intelligence, Gachon University
 - **Research Interests**: Deep Learning, Computer Vistion, Large Language Models (LLMs), Multi-Modal AI
-#### Team Member: Seung Woo CHa (Cha-Seung-Woo)
-- **Affiliation**: Undergraduate Student, Department of Artificial Intelligence, Inha University
-- **Research Interests**: Deep Learning, Large Language Models (LLMs)
 #### Team Member: Minseo Choi (mschoi)
 - **Affiliation**: Undergraduate Student, Department of Mathematical Sciences, Seoul National University
 - **Research Interests**: Deep Learning, Computer Vision, Generative Models
 #### Team Member: Seo Young Ju (syju)
 - **Affiliation**: Undergraduate Student, Department of Human-Centered Artificial Intelligence, Sangmyung University
 - **Research Interests**: Deep Learning, Computer Vision, Multi-Modal AI, Medical AI
-#### Team Member: Hwang Yeong Hui (yhHwang)
-- **Affiliation**: M.S. Student, Vision & Image Processing (VIP) Lab, Department of Computer Science and Engineering, Sejong University
-- **Research Interests**: Deep Learning, Computer Vision, Generative Models, Natural Language Processing
 #### Team Member: Kyeonghun Kim (khkim)
 - **Affiliation**: GNEWSOFT R&D Center  
 - **Research Interests**: 3D Vision, Medical AI, Vision-Language Models (VLMs) for Healthcare
-#### Team Member: SuYeon Lim (sylim)
-- **Affiliation**: Undergraduate Student, Department of AI Engineering, Sookmyung Women's University 
-- **Research Interests**: Deep Learning, Computer Vision, Medical AI
 #### Team Member: YeonJu Jean (yjJean)
 - **Affiliation**: Undergraduate Student, Division of Mechanical and Biomedical Engineering, Ewha Women's University 
 - **Research Interests**: Computer Vision, Medical AI, Generative Models
